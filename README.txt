@@ -1,1 +1,1 @@
-readme EDITADO punto 2
+readme EDITADO punto 2, editado en ppunto 6
